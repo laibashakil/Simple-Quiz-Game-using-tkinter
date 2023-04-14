@@ -11,4 +11,4 @@ To use the quiz application, simply run the main() function in your Python envir
 This application requires the tkinter module, which should be included in most Python distributions. If you are using Python 2, you may need to install the module separately.
 
 # Acknowledgements
-This application was created as a learning exercise and was not intended for commercial use. Please feel free to use and modify the code as needed.
+I would like to acknowledge that this project was completed during my first semester as a student in the Programming Fundamentals course at the NED University of Engineering and Technology. This project provided me with an opportunity to develop my skills in Python programming and apply my knowledge to a real-world application.
