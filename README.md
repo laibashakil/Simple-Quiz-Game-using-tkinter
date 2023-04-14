@@ -14,7 +14,7 @@ This application requires the tkinter module, which should be included in most P
 I would like to acknowledge that this project was completed during my first semester as a student in the Programming Fundamentals course at the NED University of Engineering and Technology. This project provided me with an opportunity to develop my skills in Python programming and apply my knowledge to a real-world application.
 
 # Contributions
-Laiba Shakil
-Noor Ul Imaan
-Reham Abdul Aleem
-Ayesha Ahmed
+Laiba Shakil,
+Noor Ul Imaan,
+Reham Abdul Aleem,
+Ayesha Ahmed.
