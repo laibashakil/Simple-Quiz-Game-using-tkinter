@@ -1,20 +1,38 @@
-# Simple-Quiz-Game-using-tkinter
-A Python Tkinter-based quiz app with 10 multiple-choice questions displayed on separate frames. Provides immediate feedback with correct answers highlighted in blue.
+# General Knowledge Quiz Game
 
-# Quiz Application
-This is a simple multiple-choice quiz application built using Python's tkinter module. The quiz consists of ten questions on various topics, and the user selects one of the provided options for each question. The application will display a message indicating whether the user's answer was correct or not.
+This Python program presents a general knowledge quiz game using Tkinter GUI. Players are asked multiple-choice questions and receive immediate feedback on their answers.
 
-# Usage
-To use the quiz application, simply run the main() function in your Python environment. The questions and answer choices are hard-coded into the application, but you can modify them by changing the code in the main() function.
+## Instructions
+1. Ensure you have Python installed on your system.
+2. Clone or download this repository to your local machine.
+3. Run the `general_knowledge_quiz.py` file using a Python interpreter.
 
-# Dependencies
-This application requires the tkinter module, which should be included in most Python distributions. If you are using Python 2, you may need to install the module separately.
+## Gameplay
+- Upon starting the game, you'll see a series of questions with multiple-choice answers.
+- Select the answer you believe is correct by clicking on the corresponding button.
+- If your answer is correct, it will be indicated with a green label. If incorrect, it will be indicated with a red label.
+- Your total score will be displayed at the end of the quiz.
 
-# Acknowledgements
-I would like to acknowledge that this project was completed during my first semester as a student in the Programming Fundamentals course at the NED University of Engineering and Technology. This project provided me with an opportunity to develop my skills in Python programming and apply my knowledge to a real-world application.
+## Features
+- **Multiple Questions**: Ten questions covering various general knowledge topics.
+- **Interactive GUI**: User-friendly interface with buttons for selecting answers.
+- **Immediate Feedback**: Receive instant feedback on the correctness of your answers.
+- **Total Score Display**: See your total score at the end of the quiz.
 
-# Contributions
-Laiba Shakil,
-Noor Ul Imaan,
-Reham Abdul Aleem,
-Ayesha Ahmed.
+## Contributors
+- Laiba Shakil
+- Noor Ul Imaan
+- Reham Abdul Aleem
+- Ayesha Ahmed
+
+## Requirements
+- Python 3.x
+- Tkinter library (usually included with Python installations)
+
+## Contributing
+Contributions to enhance the quiz or add new features are welcome! Feel free to open a pull request or suggest improvements.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Let's test your general knowledge! Have fun playing the quiz! 🧠🌟
